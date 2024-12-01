@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-# Represents a Cat
 class Cat
   attr_accessor :name
 

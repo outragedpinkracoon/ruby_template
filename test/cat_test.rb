@@ -3,7 +3,6 @@
 require_relative 'test_helper'
 require_relative '../lib/cat'
 
-# Tests the Cat class
 class CatTest < Minitest::Test
   def setup
     @cat = Cat.new(
